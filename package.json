@@ -1,0 +1,39 @@
+{
+  "name": "nodejs_wx_aipay_api",
+  "version": "1.0.0",
+  "description": "微信支付宝个人免签支付Api，可以方便的接入前后端；",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "dependencies": {
+    "koa": "^2.6.2",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "koa-session": "^5.10.0",
+    "koa-static": "^5.0.0",
+    "moment": "^2.22.2",
+    "mysql2": "^1.6.4",
+    "request": "^2.88.0",
+    "sequelize": "^4.41.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:yioMe/nodejs_wx_aipay_api.git"
+  },
+  "apidoc": {
+    "name": "nodejs_wx_aipay_api",
+    "version": "1.0.0",
+    "description": "nodejs_wx_aipay_api项目API文档",
+    "title": "nodejs_wx_aipay_api API",
+    "url": "http://localhost:3030",
+    "forceLanguage": "zh-cn"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yioMe/nodejs_wx_aipay_api/issues"
+  },
+  "homepage": "https://github.com/yioMe/nodejs_wx_aipay_api#readme"
+}
