@@ -12,6 +12,7 @@ nodeJS版个人支付免签系统 Api 版本，丰富的代码注释和Api文档
 
 支付Demo地址: http://pay.yio.me/#/goods/DwnNGCW4VLk1CjemIiUqf
 
+文档地址： http://dev.yio.me/api/a/index.html 
 
 ## 初始化
 
@@ -41,7 +42,7 @@ nodeJS版个人支付免签系统 Api 版本，丰富的代码注释和Api文档
 
 ## 新的文档
 
-    你可以通过访问 http://dev.yio.me/api/a/index.html ，或者打开项目中的 DocApi目录查看如何接入支付系统和配置客户端;
+    你可以通过访问 http://dev.yio.me/api/a/index.html  或者打开项目中的 DocApi目录查看如何接入支付系统和配置客户端;
 
     你需要关注 roder - 创建支付订单，这里提供完全的支付通知，可在用户完成支付的同时通知到你的服务；
 
